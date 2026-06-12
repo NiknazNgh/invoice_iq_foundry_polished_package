@@ -1,0 +1,8 @@
+streamlit
+pandas
+pymupdf
+openpyxl
+reportlab
+azure-identity
+openai
+python-dotenv
