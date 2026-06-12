@@ -62,7 +62,7 @@ Create a local `.env` file using `.env.example` as a template.
 Example:
 
 ```env
-AGENT_ENDPOINT=https://invoice-project-resource1.services.ai.azure.com/api/projects/invoice-project/agents/invoice-iq-agent-mini/endpoint/protocols/openai
+AGENT_ENDPOINT
 ```
 
 Important: Do not commit your real `.env` file to GitHub.
